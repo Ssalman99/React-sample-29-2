@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.header {
+  height: 10%;
+  background-size: cover;
+}
+
+.header-cotainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.item {
+  color: blueviolet;
+  font-family: Roboto;
+  font-weight: bold;
+  margin-right: 10px;
+  list-style: none;
+}
